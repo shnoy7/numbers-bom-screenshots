@@ -1,0 +1,11 @@
+JSON
+{
+  "name": "hourly-boxoffice-screenshots",
+  "version": "1.0.0",
+  "scripts": {
+    "screenshot": "node screenshot.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
